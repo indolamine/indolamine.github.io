@@ -10,7 +10,19 @@
     {% endif %}
     <script>
       window.klipse_settings = {
-        selector: '.language-klipse'
+        selector: '.language-klipse',
+        codemirror_options_in: {
+          indentUnit: 8,
+          lineWrapping: true,
+          lineNumbers: true,
+          autoCloseBrackets: true,
+          theme: 'monokai-bright'
+        },
+        codemirror_options_out: {
+          lineWrapping: true,
+          lineNumbers: true,
+          theme: 'monokai-bright'
+        }
       };
     </script>
     <script src="https://storage.googleapis.com/app.klipse.tech/plugin/js/klipse_plugin.js"></script>
