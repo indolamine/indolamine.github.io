@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <main class="u-container">
+      {{ content }}
+    </main>
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+    <script>
+      window.klipse_settings = {
+        selector: '.language-klipse'
+      };
+    </script>
+    <script src="http://app.klipse.tech/plugin/js/klipse_plugin.js"></script>
+  </body>
+</html>
