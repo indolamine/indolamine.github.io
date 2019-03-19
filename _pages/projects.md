@@ -4,15 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-Show off your projects here!
-- [Awesome Project]()
-- [Cool Project]()
-- [New Project]()
-- [Old Project]()
-- [Hard Project]()
-- [School Project]()
-- [Project's Project]()
-
-# Talks
-- How to ????
-
+- [Photinus]() - with Lein / cljsbuild / figwheel / re-frame-10x tooling
+- [Photinus Shadow]() - with shadow-cljs / re-frame-10x tooling
+- [Photinus RN Shadow]() - React Native mobile "client" for Photinus
