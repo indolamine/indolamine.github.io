@@ -8,6 +8,33 @@
             "type": "shell",
             "command": "rake preview",
             "problemMatcher": []
+        },
+        {
+            "label": "New post",
+            "type": "shell",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "command": "rake",
+            "args": [
+                {
+                    "value": "post",
+                    "quoting": "escape"
+                },
+                {
+                    "value": "title=${input:postTitle}",
+                    "quoting": "escape"
+                }
+            ],
+            "problemMatcher": []
+        }
+    ],
+    "inputs": [
+        {
+            "type": "promptString",
+            "id": "postTitle",
+            "description": "Title of the new post",
+            "default": "Captain's log"
         }
     ]
 }
