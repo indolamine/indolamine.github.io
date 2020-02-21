@@ -1,0 +1,523 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/2ebf5b1/
+#left	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	i
+#right	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	i
+*	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+*:after	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+*:before	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.bp	_sass/vendor/_highlight.scss	/^.highlight .bp { color: #268bd2 } \/* Name.Builtin.Pseudo *\/$/;"	c
+.c	_sass/vendor/_highlight.scss	/^.highlight .c { color: #586e75 } \/* Comment *\/$/;"	c
+.c-archives	_sass/components/_archives.scss	/^.c-archives {$/;"	c
+.c-archives	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-archives__item	_sass/components/_archives.scss	/^.c-archives__item {$/;"	c
+.c-archives__item	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-archives__item h3	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.c-archives__item p	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.c-archives__list	_sass/components/_archives.scss	/^.c-archives__list {$/;"	c
+.c-archives__list	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-archives__year	_sass/components/_archives.scss	/^.c-archives__year {$/;"	c
+.c-archives__year	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-article	_sass/components/_article.scss	/^.c-article {$/;"	c
+.c-article	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-article__footer	_sass/components/_article.scss	/^.c-article__footer {$/;"	c
+.c-article__header	_sass/components/_article.scss	/^.c-article__header {$/;"	c
+.c-article__header	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-article__main	_sass/components/_article.scss	/^.c-article__main {$/;"	c
+.c-article__main	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-article__main .web-container	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-article__main .web-container iframe	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.c-article__main blockquote	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.c-article__main h2	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.c-article__main h3	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.c-article__main h4	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.c-article__main h5	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.c-article__main ol	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.c-article__main strong	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.c-article__main ul	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.c-article__main>*	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-article__time	_sass/components/_article.scss	/^.c-article__time {$/;"	c
+.c-article__time	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-article__title	_sass/components/_article.scss	/^.c-article__title {$/;"	c
+.c-article__title	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-c-tag	_sass/components/_tag.scss	/^.c-c-tag {$/;"	c
+.c-c-tag	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-c-tag:before	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-page	_sass/components/_page.scss	/^.c-page {$/;"	c
+.c-page__footer	_sass/components/_page.scss	/^.c-page__footer {$/;"	c
+.c-page__footer	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-page__footer p	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.c-page__header	_sass/components/_page.scss	/^.c-page__header {$/;"	c
+.c-page__header	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-page__header h1	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.c-page__header p	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.c-tag	_sass/components/_tag.scss	/^.c-tag {$/;"	c
+.c-tag	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-tag::after	_sass/components/_tag.scss	/^.c-tag::after {$/;"	c
+.c-tag::after	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-tag::before	_sass/components/_tag.scss	/^.c-tag::before {$/;"	c
+.c-tag::before	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-tag:hover	_sass/components/_tag.scss	/^.c-tag:hover {$/;"	c
+.c-tag:hover	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-tag:hover::after	_sass/components/_tag.scss	/^.c-tag:hover::after {$/;"	c
+.c-tag:hover::after	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-tags	_sass/components/_tag.scss	/^.c-tags li {$/;"	c
+.c-tags	_sass/components/_tag.scss	/^.c-tags {$/;"	c
+.c-tags	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.c-tags li	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.c1	_sass/vendor/_highlight.scss	/^.highlight .c1 { color: #586e75 } \/* Comment.Single *\/$/;"	c
+.center	_sass/base/_reset.scss	/^.center {$/;"	c
+.center	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.cm	_sass/vendor/_highlight.scss	/^.highlight .cm { color: #586e75 } \/* Comment.Multiline *\/$/;"	c
+.cm-s-monokai-bright	_site/css/monokai-bright.css	/^.cm-s-monokai-bright {$/;"	c
+.cm-s-monokai-bright	css/monokai-bright.css	/^.cm-s-monokai-bright {$/;"	c
+.cm-s-monokai-bright .CodeMirror-activeline-background	_site/css/monokai-bright.css	/^.cm-s-monokai-bright .CodeMirror-activeline-background {$/;"	c
+.cm-s-monokai-bright .CodeMirror-activeline-background	css/monokai-bright.css	/^.cm-s-monokai-bright .CodeMirror-activeline-background {$/;"	c
+.cm-s-monokai-bright .CodeMirror-gutters	_site/css/monokai-bright.css	/^.cm-s-monokai-bright .CodeMirror-gutters {$/;"	c
+.cm-s-monokai-bright .CodeMirror-gutters	css/monokai-bright.css	/^.cm-s-monokai-bright .CodeMirror-gutters {$/;"	c
+.cm-s-monokai-bright .CodeMirror-linenumber	_site/css/monokai-bright.css	/^.cm-s-monokai-bright .CodeMirror-linenumber {$/;"	c
+.cm-s-monokai-bright .CodeMirror-linenumber	css/monokai-bright.css	/^.cm-s-monokai-bright .CodeMirror-linenumber {$/;"	c
+.cm-s-monokai-bright .CodeMirror-lines	_site/css/monokai-bright.css	/^.cm-s-monokai-bright .CodeMirror-lines {$/;"	c
+.cm-s-monokai-bright .CodeMirror-lines	css/monokai-bright.css	/^.cm-s-monokai-bright .CodeMirror-lines {$/;"	c
+.cm-s-monokai-bright .CodeMirror-selected	_site/css/monokai-bright.css	/^.cm-s-monokai-bright .CodeMirror-selected {$/;"	c
+.cm-s-monokai-bright .CodeMirror-selected	css/monokai-bright.css	/^.cm-s-monokai-bright .CodeMirror-selected {$/;"	c
+.cm-s-monokai-bright .cm-atom	_site/css/monokai-bright.css	/^.cm-s-monokai-bright .cm-atom {$/;"	c
+.cm-s-monokai-bright .cm-atom	css/monokai-bright.css	/^.cm-s-monokai-bright .cm-atom {$/;"	c
+.cm-s-monokai-bright .cm-comment	_site/css/monokai-bright.css	/^.cm-s-monokai-bright .cm-comment {$/;"	c
+.cm-s-monokai-bright .cm-comment	css/monokai-bright.css	/^.cm-s-monokai-bright .cm-comment {$/;"	c
+.cm-s-monokai-bright .cm-def	_site/css/monokai-bright.css	/^.cm-s-monokai-bright .cm-def {$/;"	c
+.cm-s-monokai-bright .cm-def	css/monokai-bright.css	/^.cm-s-monokai-bright .cm-def {$/;"	c
+.cm-s-monokai-bright .cm-keyword	_site/css/monokai-bright.css	/^.cm-s-monokai-bright .cm-keyword {$/;"	c
+.cm-s-monokai-bright .cm-keyword	css/monokai-bright.css	/^.cm-s-monokai-bright .cm-keyword {$/;"	c
+.cm-s-monokai-bright .cm-number	_site/css/monokai-bright.css	/^.cm-s-monokai-bright .cm-number {$/;"	c
+.cm-s-monokai-bright .cm-number	css/monokai-bright.css	/^.cm-s-monokai-bright .cm-number {$/;"	c
+.cm-s-monokai-bright .cm-operator	_site/css/monokai-bright.css	/^.cm-s-monokai-bright .cm-operator {$/;"	c
+.cm-s-monokai-bright .cm-operator	css/monokai-bright.css	/^.cm-s-monokai-bright .cm-operator {$/;"	c
+.cm-s-monokai-bright .cm-property	_site/css/monokai-bright.css	/^.cm-s-monokai-bright .cm-property {$/;"	c
+.cm-s-monokai-bright .cm-property	css/monokai-bright.css	/^.cm-s-monokai-bright .cm-property {$/;"	c
+.cm-s-monokai-bright .cm-string	_site/css/monokai-bright.css	/^.cm-s-monokai-bright .cm-string {$/;"	c
+.cm-s-monokai-bright .cm-string	css/monokai-bright.css	/^.cm-s-monokai-bright .cm-string {$/;"	c
+.cm-s-monokai-bright .cm-variable	_site/css/monokai-bright.css	/^.cm-s-monokai-bright .cm-variable {$/;"	c
+.cm-s-monokai-bright .cm-variable	css/monokai-bright.css	/^.cm-s-monokai-bright .cm-variable {$/;"	c
+.cm-s-monokai-bright .cm-variable-2	_site/css/monokai-bright.css	/^.cm-s-monokai-bright .cm-variable-2 {$/;"	c
+.cm-s-monokai-bright .cm-variable-2	css/monokai-bright.css	/^.cm-s-monokai-bright .cm-variable-2 {$/;"	c
+.cm-s-monokai-bright div.CodeMirror-cursor	_site/css/monokai-bright.css	/^.cm-s-monokai-bright div.CodeMirror-cursor {$/;"	c
+.cm-s-monokai-bright div.CodeMirror-cursor	css/monokai-bright.css	/^.cm-s-monokai-bright div.CodeMirror-cursor {$/;"	c
+.code	_sass/vendor/_highlight.scss	/^    .code {$/;"	c
+.cp	_sass/vendor/_highlight.scss	/^.highlight .cp { color: #859900 } \/* Comment.Preproc *\/$/;"	c
+.cs	_sass/vendor/_highlight.scss	/^.highlight .cs { color: #859900 } \/* Comment.Special *\/$/;"	c
+.err	_sass/vendor/_highlight.scss	/^.highlight .err { color: #93a1a1 } \/* Error *\/$/;"	c
+.g	_sass/vendor/_highlight.scss	/^.highlight .g { color: #93a1a1 } \/* Generic *\/$/;"	c
+.gd	_sass/vendor/_highlight.scss	/^.highlight .gd { color: #2aa198 } \/* Generic.Deleted *\/$/;"	c
+.ge	_sass/vendor/_highlight.scss	/^.highlight .ge { color: #93a1a1; font-style: italic } \/* Generic.Emph *\/$/;"	c
+.gh	_sass/vendor/_highlight.scss	/^.highlight .gh { color: #cb4b16 } \/* Generic.Heading *\/$/;"	c
+.gi	_sass/vendor/_highlight.scss	/^.highlight .gi { color: #859900 } \/* Generic.Inserted *\/$/;"	c
+.go	_sass/vendor/_highlight.scss	/^.highlight .go { color: #93a1a1 } \/* Generic.Output *\/$/;"	c
+.gp	_sass/vendor/_highlight.scss	/^.highlight .gp { color: #93a1a1 } \/* Generic.Prompt *\/$/;"	c
+.gr	_sass/vendor/_highlight.scss	/^.highlight .gr { color: #dc322f } \/* Generic.Error *\/$/;"	c
+.gs	_sass/vendor/_highlight.scss	/^.highlight .gs { color: #93a1a1; font-weight: bold } \/* Generic.Strong *\/$/;"	c
+.gt	_sass/vendor/_highlight.scss	/^.highlight .gt { color: #93a1a1 } \/* Generic.Traceback *\/$/;"	c
+.gu	_sass/vendor/_highlight.scss	/^.highlight .gu { color: #cb4b16 } \/* Generic.Subheading *\/$/;"	c
+.gutter	_sass/vendor/_highlight.scss	/^    .gutter {$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .bp { color: #268bd2 } \/* Name.Builtin.Pseudo *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .c { color: #586e75 } \/* Comment *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .c1 { color: #586e75 } \/* Comment.Single *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .cm { color: #586e75 } \/* Comment.Multiline *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .cp { color: #859900 } \/* Comment.Preproc *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .cs { color: #859900 } \/* Comment.Special *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .err { color: #93a1a1 } \/* Error *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .g { color: #93a1a1 } \/* Generic *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .gd { color: #2aa198 } \/* Generic.Deleted *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .ge { color: #93a1a1; font-style: italic } \/* Generic.Emph *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .gh { color: #cb4b16 } \/* Generic.Heading *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .gi { color: #859900 } \/* Generic.Inserted *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .go { color: #93a1a1 } \/* Generic.Output *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .gp { color: #93a1a1 } \/* Generic.Prompt *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .gr { color: #dc322f } \/* Generic.Error *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .gs { color: #93a1a1; font-weight: bold } \/* Generic.Strong *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .gt { color: #93a1a1 } \/* Generic.Traceback *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .gu { color: #cb4b16 } \/* Generic.Subheading *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .il { color: #2aa198 } \/* Literal.Number.Integer.Long *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .k { color: #859900 } \/* Keyword *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .kc { color: #cb4b16 } \/* Keyword.Constant *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .kd { color: #268bd2 } \/* Keyword.Declaration *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .kn { color: #859900 } \/* Keyword.Namespace *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .kp { color: #859900 } \/* Keyword.Pseudo *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .kr { color: #268bd2 } \/* Keyword.Reserved *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .kt { color: #dc322f } \/* Keyword.Type *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .l { color: #93a1a1 } \/* Literal *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .ld { color: #93a1a1 } \/* Literal.Date *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .m { color: #2aa198 } \/* Literal.Number *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .mf { color: #2aa198 } \/* Literal.Number.Float *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .mh { color: #2aa198 } \/* Literal.Number.Hex *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .mi { color: #2aa198 } \/* Literal.Number.Integer *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .mo { color: #2aa198 } \/* Literal.Number.Oct *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .n { color: #93a1a1 } \/* Name *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .na { color: #93a1a1 } \/* Name.Attribute *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .nb { color: #B58900 } \/* Name.Builtin *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .nc { color: #268bd2 } \/* Name.Class *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .nd { color: #268bd2 } \/* Name.Decorator *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .ne { color: #cb4b16 } \/* Name.Exception *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .nf { color: #268bd2 } \/* Name.Function *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .ni { color: #cb4b16 } \/* Name.Entity *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .nl { color: #93a1a1 } \/* Name.Label *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .nn { color: #93a1a1 } \/* Name.Namespace *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .no { color: #cb4b16 } \/* Name.Constant *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .nt { color: #268bd2 } \/* Name.Tag *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .nv { color: #268bd2 } \/* Name.Variable *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .nx { color: #93a1a1 } \/* Name.Other *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .o { color: #859900 } \/* Operator *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .ow { color: #859900 } \/* Operator.Word *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .p { color: #93a1a1 } \/* Punctuation *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .py { color: #93a1a1 } \/* Name.Property *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .s { color: #2aa198 } \/* Literal.String *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .s1 { color: #2aa198 } \/* Literal.String.Single *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .s2 { color: #2aa198 } \/* Literal.String.Double *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .sb { color: #586e75 } \/* Literal.String.Backtick *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .sc { color: #2aa198 } \/* Literal.String.Char *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .sd { color: #93a1a1 } \/* Literal.String.Doc *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .se { color: #cb4b16 } \/* Literal.String.Escape *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .sh { color: #93a1a1 } \/* Literal.String.Heredoc *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .si { color: #2aa198 } \/* Literal.String.Interpol *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .sr { color: #dc322f } \/* Literal.String.Regex *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .ss { color: #2aa198 } \/* Literal.String.Symbol *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .sx { color: #2aa198 } \/* Literal.String.Other *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .vc { color: #268bd2 } \/* Name.Variable.Class *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .vg { color: #268bd2 } \/* Name.Variable.Global *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .vi { color: #268bd2 } \/* Name.Variable.Instance *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .w { color: #93a1a1 } \/* Text.Whitespace *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight .x { color: #cb4b16 } \/* Other *\/$/;"	c
+.highlight	_sass/vendor/_highlight.scss	/^.highlight {$/;"	c
+.highlight	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .bp	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .c	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .c1	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .cm	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .code	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .cp	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .cs	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .err	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .g	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .gd	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .ge	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .gh	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .gi	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .go	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .gp	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .gr	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .gs	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .gt	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .gu	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .gutter	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .il	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .k	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .kc	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .kd	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .kn	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .kp	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .kr	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .kt	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .l	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .ld	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .m	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .mf	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .mh	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .mi	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .mo	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .n	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .na	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .nb	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .nc	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .nd	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .ne	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .nf	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .ni	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .nl	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .nn	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .no	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .nt	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .nv	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .nx	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .o	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .ow	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .p	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .py	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .s	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .s1	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .s2	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .sb	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .sc	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .sd	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .se	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .sh	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .si	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .sr	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .ss	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .sx	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .vc	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .vg	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .vi	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .w	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.highlight .x	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.il	_sass/vendor/_highlight.scss	/^.highlight .il { color: #2aa198 } \/* Literal.Number.Integer.Long *\/$/;"	c
+.k	_sass/vendor/_highlight.scss	/^.highlight .k { color: #859900 } \/* Keyword *\/$/;"	c
+.kc	_sass/vendor/_highlight.scss	/^.highlight .kc { color: #cb4b16 } \/* Keyword.Constant *\/$/;"	c
+.kd	_sass/vendor/_highlight.scss	/^.highlight .kd { color: #268bd2 } \/* Keyword.Declaration *\/$/;"	c
+.kn	_sass/vendor/_highlight.scss	/^.highlight .kn { color: #859900 } \/* Keyword.Namespace *\/$/;"	c
+.kp	_sass/vendor/_highlight.scss	/^.highlight .kp { color: #859900 } \/* Keyword.Pseudo *\/$/;"	c
+.kr	_sass/vendor/_highlight.scss	/^.highlight .kr { color: #268bd2 } \/* Keyword.Reserved *\/$/;"	c
+.kt	_sass/vendor/_highlight.scss	/^.highlight .kt { color: #dc322f } \/* Keyword.Type *\/$/;"	c
+.l	_sass/vendor/_highlight.scss	/^.highlight .l { color: #93a1a1 } \/* Literal *\/$/;"	c
+.ld	_sass/vendor/_highlight.scss	/^.highlight .ld { color: #93a1a1 } \/* Literal.Date *\/$/;"	c
+.lineno	_sass/vendor/_highlight.scss	/^span.lineno {$/;"	c
+.m	_sass/vendor/_highlight.scss	/^.highlight .m { color: #2aa198 } \/* Literal.Number *\/$/;"	c
+.mf	_sass/vendor/_highlight.scss	/^.highlight .mf { color: #2aa198 } \/* Literal.Number.Float *\/$/;"	c
+.mh	_sass/vendor/_highlight.scss	/^.highlight .mh { color: #2aa198 } \/* Literal.Number.Hex *\/$/;"	c
+.mi	_sass/vendor/_highlight.scss	/^.highlight .mi { color: #2aa198 } \/* Literal.Number.Integer *\/$/;"	c
+.mo	_sass/vendor/_highlight.scss	/^.highlight .mo { color: #2aa198 } \/* Literal.Number.Oct *\/$/;"	c
+.n	_sass/vendor/_highlight.scss	/^.highlight .n { color: #93a1a1 } \/* Name *\/$/;"	c
+.na	_sass/vendor/_highlight.scss	/^.highlight .na { color: #93a1a1 } \/* Name.Attribute *\/$/;"	c
+.nav	_sass/base/_reset.scss	/^a.nav {$/;"	c
+.nav:before	_sass/base/_reset.scss	/^a.nav:before {$/;"	c
+.nb	_sass/vendor/_highlight.scss	/^.highlight .nb { color: #B58900 } \/* Name.Builtin *\/$/;"	c
+.nc	_sass/vendor/_highlight.scss	/^.highlight .nc { color: #268bd2 } \/* Name.Class *\/$/;"	c
+.nd	_sass/vendor/_highlight.scss	/^.highlight .nd { color: #268bd2 } \/* Name.Decorator *\/$/;"	c
+.ne	_sass/vendor/_highlight.scss	/^.highlight .ne { color: #cb4b16 } \/* Name.Exception *\/$/;"	c
+.nf	_sass/vendor/_highlight.scss	/^.highlight .nf { color: #268bd2 } \/* Name.Function *\/$/;"	c
+.ni	_sass/vendor/_highlight.scss	/^.highlight .ni { color: #cb4b16 } \/* Name.Entity *\/$/;"	c
+.nl	_sass/vendor/_highlight.scss	/^.highlight .nl { color: #93a1a1 } \/* Name.Label *\/$/;"	c
+.nn	_sass/vendor/_highlight.scss	/^.highlight .nn { color: #93a1a1 } \/* Name.Namespace *\/$/;"	c
+.no	_sass/vendor/_highlight.scss	/^.highlight .no { color: #cb4b16 } \/* Name.Constant *\/$/;"	c
+.no-hov	_sass/base/_reset.scss	/^a.no-hov {$/;"	c
+.nt	_sass/vendor/_highlight.scss	/^.highlight .nt { color: #268bd2 } \/* Name.Tag *\/$/;"	c
+.nv	_sass/vendor/_highlight.scss	/^.highlight .nv { color: #268bd2 } \/* Name.Variable *\/$/;"	c
+.nx	_sass/vendor/_highlight.scss	/^.highlight .nx { color: #93a1a1 } \/* Name.Other *\/$/;"	c
+.o	_sass/vendor/_highlight.scss	/^.highlight .o { color: #859900 } \/* Operator *\/$/;"	c
+.ow	_sass/vendor/_highlight.scss	/^.highlight .ow { color: #859900 } \/* Operator.Word *\/$/;"	c
+.p	_sass/vendor/_highlight.scss	/^.highlight .p { color: #93a1a1 } \/* Punctuation *\/$/;"	c
+.pagenav	_sass/components/_article.scss	/^.pagenav div {$/;"	c
+.pagenav	_sass/components/_article.scss	/^.pagenav {$/;"	c
+.pagenav	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.pagenav div	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+.py	_sass/vendor/_highlight.scss	/^.highlight .py { color: #93a1a1 } \/* Name.Property *\/$/;"	c
+.s	_sass/vendor/_highlight.scss	/^.highlight .s { color: #2aa198 } \/* Literal.String *\/$/;"	c
+.s1	_sass/vendor/_highlight.scss	/^.highlight .s1 { color: #2aa198 } \/* Literal.String.Single *\/$/;"	c
+.s2	_sass/vendor/_highlight.scss	/^.highlight .s2 { color: #2aa198 } \/* Literal.String.Double *\/$/;"	c
+.sb	_sass/vendor/_highlight.scss	/^.highlight .sb { color: #586e75 } \/* Literal.String.Backtick *\/$/;"	c
+.sc	_sass/vendor/_highlight.scss	/^.highlight .sc { color: #2aa198 } \/* Literal.String.Char *\/$/;"	c
+.sd	_sass/vendor/_highlight.scss	/^.highlight .sd { color: #93a1a1 } \/* Literal.String.Doc *\/$/;"	c
+.se	_sass/vendor/_highlight.scss	/^.highlight .se { color: #cb4b16 } \/* Literal.String.Escape *\/$/;"	c
+.sh	_sass/vendor/_highlight.scss	/^.highlight .sh { color: #93a1a1 } \/* Literal.String.Heredoc *\/$/;"	c
+.si	_sass/vendor/_highlight.scss	/^.highlight .si { color: #2aa198 } \/* Literal.String.Interpol *\/$/;"	c
+.sr	_sass/vendor/_highlight.scss	/^.highlight .sr { color: #dc322f } \/* Literal.String.Regex *\/$/;"	c
+.ss	_sass/vendor/_highlight.scss	/^.highlight .ss { color: #2aa198 } \/* Literal.String.Symbol *\/$/;"	c
+.sx	_sass/vendor/_highlight.scss	/^.highlight .sx { color: #2aa198 } \/* Literal.String.Other *\/$/;"	c
+.u-container	_sass/utilities/_layout.scss	/^.u-container {$/;"	c
+.u-container	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.u-separate	_sass/utilities/_separator.scss	/^.u-separate {$/;"	c
+.u-separate	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.u-separate:after	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.vc	_sass/vendor/_highlight.scss	/^.highlight .vc { color: #268bd2 } \/* Name.Variable.Class *\/$/;"	c
+.vg	_sass/vendor/_highlight.scss	/^.highlight .vg { color: #268bd2 } \/* Name.Variable.Global *\/$/;"	c
+.vi	_sass/vendor/_highlight.scss	/^.highlight .vi { color: #268bd2 } \/* Name.Variable.Instance *\/$/;"	c
+.w	_sass/vendor/_highlight.scss	/^.highlight .w { color: #93a1a1 } \/* Text.Whitespace *\/$/;"	c
+.web-container	_sass/components/_article.scss	/^		.web-container iframe {$/;"	c
+.web-container	_sass/components/_article.scss	/^		.web-container {$/;"	c
+.wrapper	_sass/components/_article.scss	/^.wrapper {$/;"	c
+.wrapper	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+.x	_sass/vendor/_highlight.scss	/^.highlight .x { color: #cb4b16 } \/* Other *\/$/;"	c
+0	.vscode/tasks.json	/^                {$/;"	o	array:tasks.1.args
+0	.vscode/tasks.json	/^        {$/;"	o	array:inputs
+0	.vscode/tasks.json	/^        {$/;"	o	array:tasks
+1	.vscode/tasks.json	/^                {$/;"	o	array:tasks.1.args
+1	.vscode/tasks.json	/^        {$/;"	o	array:tasks
+1-1. Header Alignment	fiddle/_old_posts/2016-08-15-style-test.md	/^### 1-1. Header Alignment $/;"	S
+1. Header	fiddle/_old_posts/2016-08-15-style-test.md	/^## 1. Header $/;"	s
+2. Body Text	fiddle/_old_posts/2016-08-15-style-test.md	/^## 2. Body Text$/;"	s
+2020	_site/index.html	/^  <h2 class="c-archives__year" id="2020-ref">2020<\/h2>$/;"	i
+2020-ref	_site/index.html	/^  <h2 class="c-archives__year" id="2020-ref">2020<\/h2>$/;"	I
+3-1. Image Alignment	fiddle/_old_posts/2016-08-15-style-test.md	/^### 3-1. Image Alignment$/;"	S
+3. Images	fiddle/_old_posts/2016-08-15-style-test.md	/^## 3. Images$/;"	s
+4. Blockquotes	fiddle/_old_posts/2016-08-15-style-test.md	/^## 4. Blockquotes$/;"	s
+404: Page not found	_site/404.html	/^    <h1 class="c-article__title">404: Page not found<\/h1>$/;"	h
+5. List Types	fiddle/_old_posts/2016-08-15-style-test.md	/^## 5. List Types$/;"	s
+6. Tables	fiddle/_old_posts/2016-08-15-style-test.md	/^## 6. Tables$/;"	s
+7. Code Snippets	fiddle/_old_posts/2016-08-15-style-test.md	/^## 7. Code Snippets$/;"	s
+Adding posts	_site/fiddle/README.md	/^### Adding posts$/;"	S
+Adding posts	fiddle/README.md	/^### Adding posts$/;"	S
+Adding posts	fiddle/_old_posts/2017-07-21-quick-start.md	/^### Adding posts$/;"	S
+Center	fiddle/_old_posts/2016-08-15-style-test.md	/^##### Center$/;"	T
+Cupidatat 90's lo-fi authentic try-hard	fiddle/_old_posts/2017-01-01-readability.md	/^## Cupidatat 90's lo-fi authentic try-hard$/;"	s
+Customization	_site/fiddle/README.md	/^### Customization$/;"	S
+Customization	fiddle/README.md	/^### Customization$/;"	S
+Customization	fiddle/_old_posts/2017-07-21-quick-start.md	/^### Customization$/;"	S
+Definition Lists	fiddle/_old_posts/2016-08-15-style-test.md	/^### Definition Lists$/;"	S
+Distraction-free-task-management	_site/2020/02/Distraction-free-task-management.html	/^    <h1 class="c-article__title">Distraction-free-task-management<\/h1>$/;"	h
+Distraction-free-task-management The way to an extremely distraction-free task management solution	_site/index.html	/^      <\/h3>$/;"	j
+Doing predefined work	_posts/2020-02-21-Distraction-free-task-management.md	/^## Doing predefined work$/;"	s
+Doing predefined work	_site/2020/02/Distraction-free-task-management.html	/^<h2 id="doing-predefined-work">Doing predefined work<\/h2>$/;"	i
+Doing work as it shows up	_posts/2020-02-21-Distraction-free-task-management.md	/^## Doing work as it shows up$/;"	s
+Doing work as it shows up	_site/2020/02/Distraction-free-task-management.html	/^<h2 id="doing-work-as-it-shows-up">Doing work as it shows up<\/h2>$/;"	i
+Features	_site/fiddle/README.md	/^## Features$/;"	s
+Features	fiddle/README.md	/^## Features$/;"	s
+Features	fiddle/_old_posts/2017-07-21-quick-start.md	/^## Features$/;"	s
+Forage occaecat cardigan qui	fiddle/_old_posts/2017-01-01-readability.md	/^## Forage occaecat cardigan qui$/;"	s
+GitHub Gist Embed	fiddle/_old_posts/2017-07-20-code-highlighting.md	/^### GitHub Gist Embed$/;"	S
+Header 1	fiddle/_old_posts/2016-08-15-style-test.md	/^# Header 1$/;"	c
+Header 2	fiddle/_old_posts/2016-08-15-style-test.md	/^## Header 2$/;"	s
+Header 3	fiddle/_old_posts/2016-08-15-style-test.md	/^### Header 3$/;"	S
+Header 4	fiddle/_old_posts/2016-08-15-style-test.md	/^#### Header 4$/;"	t
+Header 5	fiddle/_old_posts/2016-08-15-style-test.md	/^##### Header 5$/;"	T
+Header 6	fiddle/_old_posts/2016-08-15-style-test.md	/^###### Header 6$/;"	u
+Highlighted Code Blocks	fiddle/_old_posts/2016-08-15-style-test.md	/^### Highlighted Code Blocks$/;"	S
+Highlighted Code Blocks	fiddle/_old_posts/2017-07-20-code-highlighting.md	/^### Highlighted Code Blocks$/;"	S
+Hoodie Duis	fiddle/_old_posts/2017-01-01-readability.md	/^## Hoodie Duis$/;"	s
+Indolamine blog	_site/2020/02/Distraction-free-task-management.html	/^  <h1><code>Indolamine blog<\/code><\/h1>$/;"	h
+Indolamine blog	_site/404.html	/^  <h1><code>Indolamine blog<\/code><\/h1>$/;"	h
+Indolamine blog	_site/index.html	/^  <h1><code>Indolamine blog<\/code><\/h1>$/;"	h
+Left(Default)	fiddle/_old_posts/2016-08-15-style-test.md	/^##### Left(Default)$/;"	T
+License	_site/fiddle/README.md	/^# License$/;"	c
+License	fiddle/README.md	/^# License$/;"	c
+Licnese	fiddle/_old_posts/2017-07-21-quick-start.md	/^# Licnese$/;"	c
+Ordered List	fiddle/_old_posts/2016-08-15-style-test.md	/^### Ordered List$/;"	S
+Right	fiddle/_old_posts/2016-08-15-style-test.md	/^##### Right$/;"	T
+Software, productivity, clojure	_site/index.html	/^<\/h1>$/;"	h
+Standard Code Block	fiddle/_old_posts/2017-07-20-code-highlighting.md	/^### Standard Code Block$/;"	S
+Standard code block	fiddle/_old_posts/2016-08-15-style-test.md	/^### Standard code block$/;"	S
+The three folds	_posts/2020-02-21-Distraction-free-task-management.md	/^## The three folds$/;"	s
+The three folds	_site/2020/02/Distraction-free-task-management.html	/^<h2 id="the-three-folds">The three folds<\/h2>$/;"	i
+Thundercats Ho!	fiddle/_old_posts/2017-01-01-readability.md	/^### Thundercats Ho!$/;"	S
+Unordered List	fiddle/_old_posts/2016-08-15-style-test.md	/^### Unordered List$/;"	S
+Usage	_site/fiddle/README.md	/^## Usage$/;"	s
+Usage	fiddle/README.md	/^## Usage$/;"	s
+Usage	fiddle/_old_posts/2017-07-21-quick-start.md	/^## Usage$/;"	s
+a	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+a.nav	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+a.nav:before	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+a.no-hov:after	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+a.no-hov:hover	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+a::after	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+a:hover	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+a:hover::after	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+abbr[title]	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+args	.vscode/tasks.json	/^            "args": [$/;"	a	object:tasks.1
+article	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+aside	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+atom	_site/feed.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+audio	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+audio:not([controls] )	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+b	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+body	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+bp__sm	_sass/helpers/_variables.scss	/^$bp__sm: 45rem; \/\/ 450px$/;"	v
+c-accent__blue	_sass/helpers/_variables.scss	/^$c-accent__blue: #0067FB;$/;"	v
+c-accent__darkblue	_sass/helpers/_variables.scss	/^$c-accent__darkblue: #0029F9;$/;"	v
+c-accent__green	_sass/helpers/_variables.scss	/^$c-accent__green: #8BE367;$/;"	v
+c-base__0	_sass/helpers/_variables.scss	/^$c-base__0: #869395;$/;"	v
+c-base__00	_sass/helpers/_variables.scss	/^$c-base__00: #697B82;$/;"	v
+c-base__01	_sass/helpers/_variables.scss	/^$c-base__01: #5C6E74;$/;"	v
+c-base__02	_sass/helpers/_variables.scss	/^$c-base__02: #163541;$/;"	v
+c-base__03	_sass/helpers/_variables.scss	/^$c-base__03: #0D2B35;$/;"	v
+c-base__1	_sass/helpers/_variables.scss	/^$c-base__1: #96A0A0;$/;"	v
+c-base__2	_sass/helpers/_variables.scss	/^$c-base__2: #EDE7D6;$/;"	v
+c-base__3	_sass/helpers/_variables.scss	/^$c-base__3: #FCF5E4;$/;"	v
+canvas	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+categories: jekyll update	fiddle/_old_posts/2019-03-18-welcome-to-jekyll.markdown	/^categories: jekyll update$/;"	s
+clearfix	_sass/helpers/_mixins.scss	/^@mixin clearfix {$/;"	m
+code	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+command	.vscode/tasks.json	/^            "command": "rake preview",$/;"	s	object:tasks.0
+command	.vscode/tasks.json	/^            "command": "rake",$/;"	s	object:tasks.1
+comments: true	_posts/2020-02-21-Distraction-free-task-management.md	/^comments: true$/;"	s
+comments: true	fiddle/_old_posts/2016-08-15-style-test.md	/^comments: true$/;"	s
+comments: true	fiddle/_old_posts/2017-01-01-readability.md	/^comments: true$/;"	s
+comments: true	fiddle/_old_posts/2017-07-20-code-highlighting.md	/^comments: true$/;"	s
+comments: true	fiddle/_old_posts/2017-07-21-quick-start.md	/^comments: true$/;"	s
+comments: true	fiddle/_old_posts/2019-03-19-klipse-code-highlighting.md	/^comments: true$/;"	s
+cwd	.vscode/tasks.json	/^                "cwd": "${workspaceFolder}"$/;"	s	object:tasks.1.options
+default	.vscode/tasks.json	/^            "default": "Captain's log"$/;"	s	object:inputs.0
+description	.vscode/tasks.json	/^            "description": "Title of the new post",$/;"	s	object:inputs.0
+disqus_thread	_layouts/post.html	/^    <section id="disqus_thread"><\/section>$/;"	I
+doing-predefined-work	_site/2020/02/Distraction-free-task-management.html	/^<h2 id="doing-predefined-work">Doing predefined work<\/h2>$/;"	I
+doing-work-as-it-shows-up	_site/2020/02/Distraction-free-task-management.html	/^<h2 id="doing-work-as-it-shows-up">Doing work as it shows up<\/h2>$/;"	I
+em	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+ff--code	_sass/helpers/_mixins.scss	/^@mixin ff--code {$/;"	m
+ff--sans-serif	_sass/helpers/_mixins.scss	/^@mixin ff--sans-serif($font-weight: normal) {$/;"	m
+figcaption	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+figure	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+font-weight	_sass/helpers/_mixins.scss	/^@mixin ff--sans-serif($font-weight: normal) {$/;"	z
+footer	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+fs--body	_sass/helpers/_mixins.scss	/^@mixin fs--body {$/;"	m
+fs--caption	_sass/helpers/_mixins.scss	/^@mixin fs--caption {$/;"	m
+fs--code	_sass/helpers/_mixins.scss	/^@mixin fs--code {$/;"	m
+fs--heading-1	_sass/helpers/_mixins.scss	/^@mixin fs--heading-1 {$/;"	m
+fs--heading-2	_sass/helpers/_mixins.scss	/^@mixin fs--heading-2 {$/;"	m
+fs--heading-3	_sass/helpers/_mixins.scss	/^@mixin fs--heading-3 {$/;"	m
+fs--heading-4	_sass/helpers/_mixins.scss	/^@mixin fs--heading-4 {$/;"	m
+fs--meta	_sass/helpers/_mixins.scss	/^@mixin fs--meta {$/;"	m
+fs--title	_sass/helpers/_mixins.scss	/^@mixin fs--title {$/;"	m
+h1	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+h2	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+h3	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+h4	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+h5	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+h6	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+header	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+header a	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+hgroup	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+hidden	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+hr	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+html	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+i	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+id	.vscode/tasks.json	/^            "id": "postTitle",$/;"	s	object:inputs.0
+img	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+indolamine.github.io	README.md	/^# indolamine.github.io$/;"	c
+indolamine.github.io	_site/README.md	/^# indolamine.github.io$/;"	c
+inputs	.vscode/tasks.json	/^    "inputs": [$/;"	a
+label	.vscode/tasks.json	/^            "label": "Local preview",$/;"	s	object:tasks.0
+label	.vscode/tasks.json	/^            "label": "New post",$/;"	s	object:tasks.1
+left	_layouts/post.html	/^    <div class="wrapper" id="left">$/;"	I
+left	_sass/components/_article.scss	/^#left {$/;"	i
+m-border	_sass/helpers/_variables.scss	/^$m-border: 1px solid $c-base__2;$/;"	v
+main	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+menu	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+nav	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+options	.vscode/tasks.json	/^            "options": {$/;"	o	object:tasks.1
+pre	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+problemMatcher	.vscode/tasks.json	/^            "problemMatcher": []$/;"	a	object:tasks.0
+problemMatcher	.vscode/tasks.json	/^            "problemMatcher": []$/;"	a	object:tasks.1
+progress	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+quoting	.vscode/tasks.json	/^                    "quoting": "escape"$/;"	s	object:tasks.1.args.0
+quoting	.vscode/tasks.json	/^                    "quoting": "escape"$/;"	s	object:tasks.1.args.1
+right	_layouts/post.html	/^    <div class="wrapper" id="right">$/;"	I
+right	_sass/components/_article.scss	/^#right {$/;"	i
+section	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+small	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+span.lineno	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	c
+strong	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+svg	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+svg:not(:root)	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+tags: []	fiddle/_old_posts/2019-03-21-lines-are-in-parens---an-api-for-remarkable-rm-files.md	/^tags: []$/;"	s
+tasks	.vscode/tasks.json	/^    "tasks": [$/;"	a
+template	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+the-three-folds	_site/2020/02/Distraction-free-task-management.html	/^<h2 id="the-three-folds">The three folds<\/h2>$/;"	I
+title: "404: Page not found"	404.md	/^title: "404: Page not found"$/;"	s
+type	.vscode/tasks.json	/^            "type": "promptString",$/;"	s	object:inputs.0
+type	.vscode/tasks.json	/^            "type": "shell",$/;"	s	object:tasks.0
+type	.vscode/tasks.json	/^            "type": "shell",$/;"	s	object:tasks.1
+value	.vscode/tasks.json	/^                    "value": "post",$/;"	s	object:tasks.1.args.0
+value	.vscode/tasks.json	/^                    "value": "title=${input:postTitle}",$/;"	s	object:tasks.1.args.1
+video	_site/css/main.css	/^*{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:borde/;"	s
+visually-hidden	_sass/helpers/_mixins.scss	/^@mixin visually-hidden {$/;"	m
+{{ next_year }}-ref	index.html	/^<h2 class="c-archives__year" id="{{ next_year }}-ref">{{next_year}}<\/h2>$/;"	I
+{{ page.title }}	_layouts/content.html	/^    <h1 class="c-article__title">{{ page.title }}<\/h1>$/;"	h
+{{ page.title }}	_layouts/post.html	/^    <h1 class="c-article__title">{{ page.title }}<\/h1>$/;"	h
+{{ site.description }}	_includes/header.html	/^  <img src="{{ "\/assets\/brain-on-indolamine.png" | prepend: site.baseurl }}"\/><h1>{{ site.des/;"	h
+{{ site.title}}	_includes/header.html	/^  <h1><code>{{ site.title}}<\/code><\/h1>$/;"	h
+{{ this_year }}-ref	index.html	/^  <h2 class="c-archives__year" id="{{ this_year }}-ref">{{this_year}}<\/h2>$/;"	I
+{{next_year}}	index.html	/^<h2 class="c-archives__year" id="{{ next_year }}-ref">{{next_year}}<\/h2>$/;"	i
+{{post.title}} {{post.description}}	index.html	/^      <\/h3>$/;"	j
+{{this_year}}	index.html	/^  <h2 class="c-archives__year" id="{{ this_year }}-ref">{{this_year}}<\/h2>$/;"	i

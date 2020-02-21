@@ -1,7 +1,7 @@
 # Site settings
-title: "ClojureScript learning journal"
+title: "Indolamine blog"
 description: > 
-  ClojureScript learning journal.
+  Software, productivity, clojure
 
 author: Gabor Veres
 email: hello@indolamine.io
@@ -9,7 +9,7 @@ twitter_username: indolamine_io
 github_username: indolamine
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://indolamine.github.io" # the base hostname & protocol for your site
+url: "https://indolamine.io" # the base hostname & protocol for your site
 
 google_analytics_id: UA-1111111111-1
 disqus_id:
